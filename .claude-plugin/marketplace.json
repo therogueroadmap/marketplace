@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "therogueroadmap",
+  "description": "Claude Code plugins from The Rogue Roadmap: exploring AI agents in software development, beyond the prototype.",
+  "owner": {
+    "name": "The Rogue Roadmap",
+    "email": "contact@therogueroadmap.com"
+  },
+  "plugins": []
+}
