@@ -6,5 +6,12 @@
     "name": "The Rogue Roadmap",
     "email": "contact@therogueroadmap.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "rogue-toolkit",
+      "description": "Small standalone skills: version-maintenance keeps manifest, CHANGELOG and README in sync.",
+      "source": { "source": "github", "repo": "therogueroadmap/rogue-toolkit" },
+      "category": "development"
+    }
+  ]
 }
