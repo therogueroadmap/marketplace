@@ -12,6 +12,18 @@
       "description": "Small standalone skills: version-maintenance keeps manifest, CHANGELOG and README in sync.",
       "source": { "source": "github", "repo": "therogueroadmap/rogue-toolkit" },
       "category": "development"
+    },
+    {
+      "name": "rogue-workflow",
+      "description": "A level-based development workflow built on superpowers: brainstorming, writing-plans and subagent-driven-development, from idea to plan to parallel execution by dependency level.",
+      "source": { "source": "github", "repo": "therogueroadmap/rogue-workflow" },
+      "category": "development"
+    },
+    {
+      "name": "multisession-dev-plugin",
+      "description": "Runs a long implementation plan across chained headless Claude Code sessions, one per dependency level, with a live dashboard. Requires rogue-workflow and PowerShell.",
+      "source": { "source": "github", "repo": "therogueroadmap/multisession-dev-plugin" },
+      "category": "development"
     }
   ]
 }

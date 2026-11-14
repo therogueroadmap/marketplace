@@ -20,6 +20,8 @@ each plugin lives in its own repository.
 | Plugin | Status | Repository |
 |---|---|---|
 | `rogue-toolkit` | Stable | [therogueroadmap/rogue-toolkit](https://github.com/therogueroadmap/rogue-toolkit) |
+| `rogue-workflow` | In progress | [therogueroadmap/rogue-workflow](https://github.com/therogueroadmap/rogue-workflow) |
+| `multisession-dev-plugin` | In progress (needs `rogue-workflow`) | [therogueroadmap/multisession-dev-plugin](https://github.com/therogueroadmap/multisession-dev-plugin) |
 
 ### Under construction
 
