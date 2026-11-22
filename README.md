@@ -37,6 +37,7 @@ folder is a plugin you install on its own:
 | Mod | Kind | Status |
 |---|---|---|
 | `rasenshuriken` | Theme | In progress |
+| `sharingan` | Theme | In progress |
 
 ### Under construction
 
