@@ -38,6 +38,7 @@ folder is a plugin you install on its own:
 |---|---|---|
 | `rasenshuriken` | Theme | In progress |
 | `sharingan` | Theme | In progress |
+| `rogue-road` | Theme | In progress |
 
 ### Under construction
 
