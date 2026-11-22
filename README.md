@@ -23,6 +23,21 @@ each plugin lives in its own repository.
 | `rogue-workflow` | In progress | [therogueroadmap/rogue-workflow](https://github.com/therogueroadmap/rogue-workflow) |
 | `multisession-dev-plugin` | In progress (needs `rogue-workflow`) | [therogueroadmap/multisession-dev-plugin](https://github.com/therogueroadmap/multisession-dev-plugin) |
 
+### Mods
+
+Mods change Claude's own interface (themes, backdrops, panels, commands). They live in their own
+catalog, [therogueroadmap/rogue-mods](https://github.com/therogueroadmap/rogue-mods), where each
+folder is a plugin you install on its own:
+
+```text
+/plugin marketplace add therogueroadmap/rogue-mods
+/plugin install <mod>@rogue-mods
+```
+
+| Mod | Kind | Status |
+|---|---|---|
+| `rasenshuriken` | Theme | In progress |
+
 ### Under construction
 
 Repositories that are public but not in the catalog yet are listed on the
