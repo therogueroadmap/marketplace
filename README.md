@@ -39,6 +39,7 @@ folder is a plugin you install on its own:
 | `rasenshuriken` | Theme | Stable |
 | `sharingan` | Theme | Stable |
 | `rogue-road` | Theme | Stable |
+| `rogue-context-bar` | Row above the prompt | Stable |
 
 ### Under construction
 
