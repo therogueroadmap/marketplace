@@ -24,6 +24,12 @@
       "description": "Runs a long implementation plan across chained headless Claude Code sessions, one per dependency level, with a live dashboard. Requires rogue-workflow and PowerShell.",
       "source": { "source": "github", "repo": "therogueroadmap/multisession-dev-plugin" },
       "category": "development"
+    },
+    {
+      "name": "rogue-heroku-ops",
+      "description": "Heroku operations agent with a safety guard: deploy GO/NO-GO, incident triage and routine checks. Never deploys, rolls back or restores.",
+      "source": { "source": "github", "repo": "therogueroadmap/rogue-heroku-ops" },
+      "category": "operations"
     }
   ]
 }
