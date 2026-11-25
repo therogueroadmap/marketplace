@@ -11,24 +11,28 @@
       "name": "rogue-toolkit",
       "description": "Small standalone skills: version-maintenance keeps manifest, CHANGELOG and README in sync.",
       "source": { "source": "github", "repo": "therogueroadmap/rogue-toolkit" },
+      "author": { "name": "The Rogue Roadmap", "email": "contact@therogueroadmap.com" },
       "category": "development"
     },
     {
       "name": "rogue-workflow",
       "description": "A level-based development workflow built on superpowers: brainstorming, writing-plans and subagent-driven-development, from idea to plan to parallel execution by dependency level.",
       "source": { "source": "github", "repo": "therogueroadmap/rogue-workflow" },
+      "author": { "name": "The Rogue Roadmap", "email": "contact@therogueroadmap.com" },
       "category": "development"
     },
     {
       "name": "multisession-dev-plugin",
       "description": "Runs a long implementation plan across chained headless Claude Code sessions, one per dependency level, with a live dashboard. Requires rogue-workflow and PowerShell.",
       "source": { "source": "github", "repo": "therogueroadmap/multisession-dev-plugin" },
+      "author": { "name": "The Rogue Roadmap", "email": "contact@therogueroadmap.com" },
       "category": "development"
     },
     {
       "name": "rogue-heroku-ops",
       "description": "Heroku operations agent with a safety guard: deploy GO/NO-GO, incident triage and routine checks. Never deploys, rolls back or restores.",
       "source": { "source": "github", "repo": "therogueroadmap/rogue-heroku-ops" },
+      "author": { "name": "The Rogue Roadmap", "email": "contact@therogueroadmap.com" },
       "category": "operations"
     }
   ]
