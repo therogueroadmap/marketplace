@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "rogue-toolkit",
-      "description": "Small standalone skills: version-maintenance keeps manifest, CHANGELOG and README in sync.",
+      "description": "Small standalone skills: version-maintenance keeps manifest, CHANGELOG and README in sync; github-repo-hardening audits a GitHub repository and applies its security protections after you approve the plan.",
       "source": { "source": "github", "repo": "therogueroadmap/rogue-toolkit" },
       "author": { "name": "The Rogue Roadmap", "email": "contact@therogueroadmap.com" },
       "category": "development"
